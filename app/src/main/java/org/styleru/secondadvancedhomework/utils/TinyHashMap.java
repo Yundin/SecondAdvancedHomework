@@ -4,6 +4,7 @@ import android.util.Log;
 
 import java.util.HashMap;
 import java.util.Map;
+
 /**
  * Unique exception, which is using only with TinyHashMap.
  * It is throwed while user tries to add more than 10 elements.
